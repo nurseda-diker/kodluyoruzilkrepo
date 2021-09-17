@@ -1,0 +1,60 @@
+.google-header {
+    width: 351px;
+    height: 113px;
+    background-color: blue;
+    margin: auto;
+}
+
+table {
+    margin: auto; 
+    margin-left: 80px;
+    margin-right: 80px;
+    
+}
+
+table tr td {
+    border: none;
+    width: 500px;
+    height: 70px;
+}
+
+
+.top {
+    background-color: #EEEEEE;
+}
+
+.search {
+    text-align: center;
+}
+
+.first-column {
+    background-color: #7EE5DA;
+    text-align: center;
+    width:530px;
+}
+
+.second-column {
+    background-color:#70CCC2;
+    text-align: center;
+    width: 300px;
+    font-size: 13px;
+}
+
+.third-column {
+    background-color: #62B3AA;
+    text-align: center;
+    width: 550px;
+    font-size: 13px;
+}
+
+p {
+    text-align: center;
+    font-size:13px;
+}
+
+
+
+
+
+
+
