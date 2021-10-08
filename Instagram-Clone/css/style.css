@@ -1,0 +1,34 @@
+::placeholder {
+    text-align: center;
+    font-size: 14px;
+    color: gray;
+    background-size: 7%;
+    background-position: 40%;
+    background-image: url(search.png);
+    background-repeat: no-repeat;
+    padding-left: 15px;
+}
+
+.storyphoto {
+    width:60px;
+    height: 60px;
+    border-radius: 50%;
+    border:2px solid rgb(238, 39, 82);
+    margin-right: 7px;
+    
+}
+
+.storytext {
+    color:black;
+    font-size: 12px;
+    font-family: 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.rightpanel {
+    text-decoration: none;
+    color:lightgray;
+    font-size: 10px;
+}
+
+
+
